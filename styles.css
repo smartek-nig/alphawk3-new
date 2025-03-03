@@ -3,17 +3,4 @@
     padding: 0;
     box-sizing: border-box;
     font-weight: normal;
-    color: blue; 
-}
-/*child selector*/
- h1{
-    color: purple;
     
-}
-h1 + p {
-    color:brown;
-}
-
- h2 {
-color: orange;
-}
